@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16e919d308c" ></w:Config>
+	<e:Image id="bgr" source="haikei_niwa_png" x="1"/>
+	<e:Label id="Starticon" text="Touch to START" x="142" y="919" anchorOffsetX="0" width="398" anchorOffsetY="0" height="135" size="50"/>
+	<e:Label id="Gametitle" text="旅行青蛙" x="160" y="316" anchorOffsetX="0" width="332" anchorOffsetY="0" height="90" size="80"/>
+</e:Skin>

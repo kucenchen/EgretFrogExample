@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Courtyard01Skin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16e87e86063" ></w:Config>
+	<e:Image id="room" source="back_mainIn_png" x="0" y="0"/>
+	<e:Image id="bg" source="haikei_niwa_png" fillMode="scale" anchorOffsetX="0" touchEnabled="true" width="1152" x="-112" height="1136" y="2"/>
+	<e:Button id="GoRoom" label="" x="542" y="843.33" enabled="true">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="icon_house_84_88_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="GoGarden" label="" x="542" y="943.33" enabled="true">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="icon_out_84_88_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="GoShop" label="" x="542" y="1043" anchorOffsetX="0" width="80" enabled="true">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="icon_shop_84_88_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Room_EUISkin" width="768" height="1138" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16e8cb7ca81" ></w:Config>
+	<e:Image id="room" source="back_mainIn_png" x="0" y="0"/>
+</e:Skin>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Shop_EUISkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16e8d4e8bc6" ></w:Config>
+	<e:Image source="label_04_png" x="0" y="0" anchorOffsetY="0" height="1130" anchorOffsetX="0" width="816"/>
+	<e:Image id="backg" source="shop_tana_png" x="0" y="133" width="640" height="697"/>
+	<e:Image id="title" source="shop_tenpo_ue_png" x="0" y="0" anchorOffsetX="0" width="638" anchorOffsetY="0" height="141"/>
+	<e:Image id="bottom" source="shop_tenpo_sita_png" x="0" y="850" anchorOffsetX="0" width="642" anchorOffsetY="0" height="281"/>
+	<e:Image id="textarea" source="sys_clover_window_png" x="0" y="858" anchorOffsetX="0" width="445" anchorOffsetY="0" height="138"/>
+	<e:Button id="Bingo" label="" x="514" y="883">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="raffle_84_88_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="Goleft" label="" x="30" y="456.5" enabled="true">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="scroll_l_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="GoRight" label="" x="564" y="452.5" enabled="true">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="scroll_r_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="CloseShop" label="" x="574" y="8" enabled="true">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="close_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

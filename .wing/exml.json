@@ -1,0 +1,51 @@
+{
+    "16e87e86063": {
+        "path": "Courtyard01.ts",
+        "class": "Courtyard01",
+        "parentPath": "",
+        "backgroundX": 0,
+        "backgroundY": 0,
+        "backgroundWidth": -1,
+        "backgroundHeight": -1,
+        "useBgImage": true,
+        "useBgColor": true,
+        "backgroundAlpha": 100,
+        "backgroundType": "null",
+        "bindingDataTestObj": []
+    },
+    "global": {
+        "globalBindingDataTestObj": [],
+        "globalAdsorbEnable": true,
+        "globalRulerEnable": true
+    },
+    "16e8cb7ca81": {
+        "backgroundX": 0,
+        "backgroundY": 0,
+        "backgroundWidth": -1,
+        "backgroundHeight": -1,
+        "useBgImage": true,
+        "useBgColor": true,
+        "backgroundAlpha": 100
+    },
+    "16e8d4e8bc6": {
+        "path": "Shop_EUI.ts",
+        "class": "Shop_EUI",
+        "parentPath": "",
+        "bindingDataTestObj": []
+    },
+    "16e919d308c": {
+        "path": "Start.ts",
+        "class": "Start",
+        "parentPath": ""
+    },
+    "16ea0f1e7ad": {
+        "path": "..\\resource\\eui_skins\\StarFrame.ts",
+        "class": "StarFrame",
+        "parentPath": ""
+    },
+    "16ea0f3ba7a": {
+        "path": "StarMove.ts",
+        "class": "StarMove",
+        "parentPath": ""
+    }
+}
